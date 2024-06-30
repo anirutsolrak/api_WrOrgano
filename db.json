@@ -1,3 +1,42 @@
 {
-    "lanes": []
-  }
+  "lanes": [
+    {
+      "id": "5d36573c-86c5-4872-9386-4b9499e3f66c",
+      "nome": "Top-Lane",
+      "cor": "#57C278",
+      "campeoes": [
+        {
+          "id": "d9f91286-51dd-4a5f-9e5d-3f3c88179796",
+          "nome": "Garen",
+          "imagem": "https://cdn.cloudflare.steamstatic.com/steam/apps/105560/header.jpg?t=1543231366",
+          "lane": "Top-Lane",
+          "imagemEstatisticas": "https://www.mobafire.com/images/champion/square/garen.png",
+          "favorito": false
+        },
+        {
+          "id": "f8c8e835-36a5-439a-b607-705a717961ff",
+          "nome": "Darius",
+          "imagem": "https://static.wikia.nocookie.net/leagueoflegends/images/6/60/Darius_Square_Portrait.png/revision/latest?cb=20170205182839",
+          "lane": "Top-Lane",
+          "imagemEstatisticas": "https://www.mobafire.com/images/champion/square/darius.png",
+          "favorito": true
+        }
+      ]
+    },
+    {
+      "id": "a6d68f2a-f571-42fa-9e12-d5c0e736e767",
+      "nome": "Mid-Lane",
+      "cor": "#82CFFA",
+      "campeoes": [
+        {
+          "id": "294e460c-e261-4269-a11d-05e86f754106",
+          "nome": "Syndra",
+          "imagem": "https://cdn.cloudflare.steamstatic.com/steam/apps/105560/header.jpg?t=1543231366",
+          "lane": "Mid-Lane",
+          "imagemEstatisticas": "https://www.mobafire.com/images/champion/square/syndra.png",
+          "favorito": false
+        }
+      ]
+    }
+  ]
+}
